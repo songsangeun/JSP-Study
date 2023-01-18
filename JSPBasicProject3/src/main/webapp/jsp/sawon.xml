@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sawon>
+  <list>
+   <sabun>1</sabun>
+   <name>신진호</name>
+   <sex>남자</sex>
+  </list>
+  <list>
+   <sabun>2</sabun>
+   <name>송상은</name>
+   <sex>여자</sex>
+  </list>
+  <list>
+   <sabun>3</sabun>
+   <name>한도희</name>
+   <sex>여자</sex>
+  </list>
+</sawon>
+  
